@@ -1,0 +1,41 @@
+*{
+    padding: 5px;
+    margin: 10px;
+    border: 0px;
+}
+header  {
+    background-color: rgb(206, 12, 5);
+    width: auto;
+    height: 100px;
+ 
+}
+body  {
+    background-color: rgb(206, 219, 21);
+
+}
+nav{
+    background-color: rgba(0, 0, 255, 0.555);
+
+}
+
+section{
+    background-color: rgb(255, 255, 255);  
+    width: auto;
+    height: 100px;
+}
+.section1{
+    background-color: rgb(255, 255, 255);  
+    width: auto;
+    height: 100px;
+}
+aside{
+    background-color: rgb(16, 204, 16);
+    width: auto;
+    height: 50px;
+}
+
+footer{
+    background-color: aqua;
+       width: auto;
+    height: 50px;
+}
